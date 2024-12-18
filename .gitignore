@@ -1,0 +1,26 @@
+
+# dist files
+dist
+build
+
+# testing and CI
+.hypothesis
+.python-version
+.coverage
+.coverage*
+.tox
+.pytest_cache
+htmlcov
+eggs/
+.eggs/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv
+
+# cache
+*__pycache__
+
+
