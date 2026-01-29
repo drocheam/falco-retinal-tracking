@@ -20,7 +20,7 @@ The tracking has also been featured in:
 > *D. Harings, N. Bauer, D. Mendroch, U. Oberheide, and H. Lubatschowski, "Real-time video funduscopy with continuously moving fixation target", Biomedical Spectroscopy, Microscopy, and Imaging III, SPIE, 2024.* [Official Link](https://doi.org/10.1117/12.3017223) [Free Preprint](https://nbn-resolving.org/urn:nbn:de:hbz:832-epub4-27891)
 
 This research is part of the [FALCO project](https://www.th-koeln.de/informations-medien-und-elektrotechnik/institute/aoe/forschungsprojekt-falco_101841.php) (Fourier-Algorithm based Low-Cost OCT) at the TH Köln University of Applied Sciences, Cologne, Germany.
-
+The project is funded by the German BMFTR (Federal Ministry of Research, Technology and Space), grant number [13FH141KX1](https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=13FH141KX1).
 
 ## Instructions
 
